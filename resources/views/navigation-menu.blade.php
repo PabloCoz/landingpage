@@ -1,13 +1,14 @@
 <nav x-data="{ open: false }" class="bg-white z-50 top-0 shadow lg:shadow-none sticky">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex items-center justify-end lg:justify-center h-16">
-            <div class="hidden lg:flex space-x-8">
-                <a href="{{route('home')}}" class="text-black font-bold text-lg my-3 px-2.5 py-2">Inicio</a>
-                <a href="#herramientas" class="text-black font-bold text-lg my-3 px-2.5 py-2">Herramientas</a>
-                <a href="#beneficios" class="text-black font-bold text-lg my-3 px-2.5 py-2">Beneficios</a>
-                <a href="#ventas" class="text-black font-bold text-lg my-3 px-2.5 py-2">¿Que puedo vender?</a>
-                <a href="#unete" class="text-red-500 font-bold text-lg my-3 px-2.5 py-2">Únete</a>
+            <div class="hidden lg:flex "><ul class="flex space-x-8 items-center">
+                <li class="links"><a href="{{route('home')}}" class="font-bold text-lg my-3 px-2.5 py-2">Inicio</a></li>
+                <li class="links"><a href="#herramientas" class="font-bold text-lg my-3 px-2.5 py-2">Herramientas</a></li>
+                <li class="links"><a href="#beneficios" class="font-bold text-lg my-3 px-2.5 py-2">Beneficios</a></li>
+                <li class="links"><a href="#ventas" class="font-bold text-lg my-3 px-2.5 py-2">¿Que puedo vender?</a></li>
+                <li class="links"><a href="#unete" class="font-bold text-lg my-3 px-2.5 py-2">Únete</a></li>
                 <a href="{{route('login')}}" class="text-sm underline text-gray-500 my-3 ml-8 px-2.5 py-3">Iniciar Sesion</a>
+                </ul>
             </div>
 
             <div class="-mr-2 flex items-center lg:hidden">

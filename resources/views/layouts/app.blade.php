@@ -58,5 +58,19 @@
                 });
             });
         </script>
+
+        <script>
+            const li = document.querySelectorAll('.links');
+            const sec = document.querySelectorAll('section');
+
+            function activeMenu() {
+                let len = sec.length;
+                while (--len && window.scrollY + 97 < sec[len].offsetTop) {}
+                li.forEach(ltx => ltx.classList.remove("text-red-400"));
+                li[len].classList.add("text-red-400");
+            }
+            activeMenu();
+            window.addEventListener('scroll', activeMenu);
+        </script>
     </body>
 </html>
