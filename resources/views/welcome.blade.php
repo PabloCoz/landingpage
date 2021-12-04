@@ -17,7 +17,7 @@
             </div>
             <div class="">
                 <figure>
-                    <img class="-my-8 h-1/3 w-full object-cover" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (4).png')}}" alt="">
+                    <img class="-my-8 h-1/3 w-full object-cover" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (4).png')}}" alt="">
                 </figure>
             </div>
         </div>
@@ -119,13 +119,13 @@
             </div>
             <div class="col-span-1">
                 <figure>
-                    <img class="h-1/2" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (15).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (15).png')}}" alt="" srcset="">
                 </figure>
             </div>
 
             <div class="col-span-1 order-2 md:order-1">
                 <figure>
-                    <img class="h-1/2" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (6).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (6).png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-1 md:order-2">
@@ -153,13 +153,13 @@
             </div>
             <div class="col-span-1 order-4">
                 <figure>
-                    <img class="h-1/2" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (3).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (3).png')}}" alt="" srcset="">
                 </figure>
             </div>
 
             <div class="col-span-1 order-6 md:order-5">
                 <figure>
-                    <img class="h-1/2" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (13).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (13).png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-5 md:order-6">
@@ -187,7 +187,7 @@
             </div>
             <div class="col-span-1 order-8">
                 <figure>
-                    <img class="h-1/2" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (20).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (20).png')}}" alt="" srcset="">
                 </figure>
             </div>
         </div>
@@ -198,10 +198,10 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div class="border border-gray-400 overflow-hidden rounded">
                 <div class="grid grid-cols-2">
-                    <img class="w-full h-32" src="{{asset("img/1.jpg")}}">
-                    <img class="w-full h-32" src="{{asset("img/2.jpg")}}">
-                    <img class="w-full h-32" src="{{asset("img/3.jpg")}}">
-                    <img class="w-full h-32" src="{{asset("img/4.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/1.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/2.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/3.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/4.jpg")}}">
                     </div>
                 <article class="py-4">
                     <h1 class="text-center font-bold">Productos hechos a manos</h1>  
@@ -210,10 +210,10 @@
 
             <div class="border border-gray-400 overflow-hidden rounded">
                 <div class="grid grid-cols-2">
-                    <img class="w-full h-32" src="{{asset("img/1.jpg")}}">
-                    <img class="w-full h-32" src="{{asset("img/2.jpg")}}">
-                    <img class="w-full h-32" src="{{asset("img/3.jpg")}}">
-                    <img class="w-full h-32" src="{{asset("img/4.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/1.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/2.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/3.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/4.jpg")}}">
                     </div>
                 <article class="py-4">
                     <h1 class="text-center font-bold">Moda</h1>  
@@ -222,10 +222,10 @@
 
             <div class="border border-gray-400 overflow-hidden rounded">
                 <div class="grid grid-cols-2">
-                    <img class="w-full h-32" src="{{asset("img/1.jpg")}}">
-                    <img class="w-full h-32" src="{{asset("img/2.jpg")}}">
-                    <img class="w-full h-32" src="{{asset("img/3.jpg")}}">
-                    <img class="w-full h-32" src="{{asset("img/4.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/1.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/2.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/3.jpg")}}">
+                    <img class="w-full h-32" src="{{secure_asset("img/4.jpg")}}">
                     </div>
                 <article class="py-4">
                     <h1 class="text-center font-bold">Arte</h1>  
@@ -253,7 +253,7 @@
             </div>
             <div class="">
                 <figure>
-                    <img class="-my-8 h-1/3 w-full object-cover" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (8).png')}}" alt="">
+                    <img class="-my-8 h-1/3 w-full object-cover" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (8).png')}}" alt="">
                 </figure>
             </div>
         </div>
