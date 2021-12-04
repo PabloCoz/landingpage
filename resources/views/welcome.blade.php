@@ -4,7 +4,7 @@
             <div class="col-span-1 ">
                 <div class="mx-5 pt-3 lg:pt-16">
                     <h1 class="xl:mx-10 font-bold text-4xl ">
-                        Abre tu tienda en línea y potencia tu empredimiento
+                        Abre tu tienda en línea y potencia tu empredimiento y mejora tus ventas
                     </h1>
                     <p class="py-7 xl:mx-10 font-semibold text-xl">
                         Súmate a la nueva comunidad de emprededores con productos autenticos y originales
@@ -119,13 +119,13 @@
             </div>
             <div class="col-span-1">
                 <figure>
-                    <img class="h-1/2" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (15).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (15).png')}}" alt="" srcset="">
                 </figure>
             </div>
 
             <div class="col-span-1 order-2 md:order-1">
                 <figure>
-                    <img class="h-1/2" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (6).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (6).png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-1 md:order-2">
@@ -153,13 +153,13 @@
             </div>
             <div class="col-span-1 order-4">
                 <figure>
-                    <img class="h-1/2" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (3).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (3).png')}}" alt="" srcset="">
                 </figure>
             </div>
 
             <div class="col-span-1 order-6 md:order-5">
                 <figure>
-                    <img class="h-1/2" src="{{asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (13).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (13).png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-5 md:order-6">
