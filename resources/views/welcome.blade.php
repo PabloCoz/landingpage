@@ -198,10 +198,10 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div class="border border-gray-400 overflow-hidden rounded">
                 <div class="grid grid-cols-2">
-                    <img class="w-full h-32" src="{{secure_asset("img/Mano/Rings.jpg")}}">
-                    <img class="w-full h-32" src="{{secure_asset("img/Mano/Necklace.jpeg")}}">
-                    <img class="w-full h-32" src="{{secure_asset("img/Mano/Totebag.jpg")}}">
-                    <img class="w-full h-32" src="{{secure_asset("img/Mano/Mugs.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Mano/Rings.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Mano/Necklace.jpeg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Mano/Totebag.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Mano/Mugs.jpeg")}}">
                     </div>
                 <article class="py-4">
                     <h1 class="text-center font-bold">Productos hechos a mano</h1>  
@@ -210,10 +210,10 @@
 
             <div class="border border-gray-400 overflow-hidden rounded">
                 <div class="grid grid-cols-2">
-                    <img class="w-full h-32" src="{{secure_asset("img/Moda/Tshirt1.jpg")}}">
-                    <img class="w-full h-32" src="{{secure_asset("img/Moda/Hat.jpg")}}">
-                    <img class="w-full h-32" src="{{secure_asset("img/Moda/Socks.jpg")}}">
-                    <img class="w-full h-32" src="{{secure_asset("img/Moda/Tshirt2.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Moda/Tshirt1.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Moda/Hat.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Moda/Socks.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Moda/Tshirt2.jpg")}}">
                     </div>
                 <article class="py-4">
                     <h1 class="text-center font-bold">Moda</h1>  
@@ -222,10 +222,10 @@
 
             <div class="border border-gray-400 overflow-hidden rounded">
                 <div class="grid grid-cols-2">
-                    <img class="w-full h-32" src="{{secure_asset("img/Arte/Art1.jpg")}}">
-                    <img class="w-full h-32" src="{{secure_asset("img/Arte/Art2.jpg")}}">
-                    <img class="w-full h-32" src="{{secure_asset("img/Arte/Art3.jpg")}}">
-                    <img class="w-full h-32" src="{{secure_asset("img/Arte/Art4.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Arte/Art1.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Arte/Art2.png")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Arte/Art3.jpg")}}">
+                    <img class="w-60 h-32 object-cover" src="{{secure_asset("img/Arte/Art4.jpg")}}">
                     </div>
                 <article class="py-4">
                     <h1 class="text-center font-bold">Arte</h1>  
