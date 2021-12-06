@@ -1,5 +1,5 @@
 <x-app-layout>
-    <section class="ml-40">
+    <section class="lg:ml-40">
         <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 my-16">
             <h1 class="text-red-400 text-5xl font-extrabold text-center">¿Te interesa la idea?</h1>
             <p class="text-gray-500 mx-5 font-bold text-2xl my-7">
@@ -42,7 +42,7 @@
 
                 <div class="hidden lg:flex">
                     <figure class=" ml-14">
-                        <img class="h-3/4 w-full rounded" src="{{secure_asset("img/Registro/Comunidad.jpg")}}" alt="">
+                        <img class="h-3/4 w-full rounded" src="{{asset("img/Registro/Comunidad.jpg")}}" alt="">
                     </figure>
                 </div>
             </div>
