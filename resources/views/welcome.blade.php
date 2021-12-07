@@ -125,7 +125,7 @@
 
             <div class="col-span-1 order-2 md:order-1">
                 <figure>
-                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (6).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DOG 1.png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-1 md:order-2">
