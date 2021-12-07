@@ -131,11 +131,11 @@
             <div class="col-span-1 order-1 md:order-2">
                 <div class="mx-5 pt-3 lg:pt-16">
                     <h1 class="xl:mx-10 font-bold text-4xl ">
-                        Olvídate de responder cada mensaje y compartir tus cuentas para concretar ventas. Aquí, tus seguidores te compran directamente, incluso cuando estás durmiendo ;)
+                        Vende y vende, sin estar presente
                     </h1>
                     <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg">
-                        Tu perfil propio, tu catálogo, tu galeria, tu propuesta, tus promos, tus reviews, tus favoritos, tu comunidad.
-                        Esto y muchos beneficios más para que plasmes la esencia de tu proyecto como siempre quisiste.
+                        Olvídate de responder cada mensaje y compartir tus cuentas para concretar ventas.
+                        Aquí, tus seguidores te compran directamente, incluso cuando estás durmiendo ;)
                     </p>
                 </div>
             </div>

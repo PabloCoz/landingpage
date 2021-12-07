@@ -12,26 +12,26 @@
                         @csrf
                         <div class="mx-4 mt-6">
                             <label class="block text-gray-700 font-bold ml-5" for="name">Nombres</label>
-                            <input class="w-full rounded border border-gray-400 py-3" name="name" type="text" placeholder="Nombres y Apellidos">
+                            <input class="w-full rounded border border-gray-400 py-3" name="name" type="text" placeholder="Nombres y Apellidos" required>
                         </div>
 
                         <div class="mx-4 mt-6">
                             <label class="block text-gray-700 font-bold ml-5" for="email">Email</label>
-                            <input class="w-full rounded border border-gray-400 py-3" name="email" type="text" placeholder="Correo Electronico">
+                            <input class="w-full rounded border border-gray-400 py-3" name="email" type="text" placeholder="Correo Electronico" required>
                         </div>
 
                         <div class="mx-4 mt-6">
                             <label class="block text-gray-700 font-bold ml-5" for="company">Nombre de tu empredimiento</label>
-                            <input class="w-full rounded border border-gray-400 py-3" name="company" type="text" placeholder="Nombre de tu empredimiento">
+                            <input class="w-full rounded border border-gray-400 py-3" name="company" type="text" placeholder="Nombre de tu empredimiento" required>
                         </div>
 
                         <div class="mx-4 mt-3">
-                            <textarea class="w-full rounded border border-gray-400" rows="3" name="description" type="text" placeholder="Cuentanos de tu empredimiento"></textarea>
+                            <textarea class="w-full rounded border border-gray-400" rows="3" name="description" type="text" placeholder="Cuentanos de tu empredimiento" required></textarea>
                         </div>
 
                         <div class="mx-4 mt-3">
                             <label class="block text-gray-700 font-bold ml-5" for="network">Comparte las redes de tu empredimiento</label>
-                            <input class="w-full rounded border border-gray-400 py-3" name="network" type="text" placeholder="Perfil de IG, FB o Tik Tok">
+                            <input class="w-full rounded border border-gray-400 py-3" name="network" type="text" placeholder="Perfil de IG, FB o Tik Tok" required>
                         </div>
 
                         <div class="mx-4 mt-6">
@@ -42,7 +42,7 @@
 
                 <div class="hidden lg:flex">
                     <figure class=" ml-14">
-                        <img class="h-3/4 w-full rounded" src="{{asset("img/Registro/Comunidad.jpg")}}" alt="">
+                        <img  class="h-3/4 w-full rounded" src="{{secure_asset("img/Registro/Comunidad.jpg")}}" alt="">
                     </figure>
                 </div>
             </div>
