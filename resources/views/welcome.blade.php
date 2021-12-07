@@ -6,7 +6,7 @@
                     <h1 class="xl:mx-10 font-bold text-4xl ">
                         Abre tu tienda en línea y potencia tu empredimiento
                     </h1>
-                    <p class="py-7 xl:mx-10 font-semibold text-xl">
+                    <p class="py-7 xl:mx-10 font-semibold text-xl text-justify">
                         Súmate a la nueva comunidad de emprededores con productos autenticos y originales
                     </p>
                     <div class="my-3 flex justify-center md:justify-start items-center">
@@ -36,7 +36,7 @@
                     </div>
                     
                     <h2 class="text-center font-bold text-lg">Recibe comentarios y calificación de tu producto</h2>
-                    <p class="text-center text-sm text-gray-600">Decubre las experiencias que tus seguidores tienen con tus creaciones y aprende qué es lo que más les gusta</p>
+                    <p class="text-center text-sm text-gray-600 mt-4 leading-5">Decubre las experiencias que tus seguidores tienen con tus creaciones y aprende qué es lo que más les gusta</p>
                 </article>
             </div>
             <div class="col-span-1">
@@ -48,7 +48,7 @@
                     </div>
                     
                     <h2 class="text-center font-bold text-lg mt-0.5">Gestiona y comparte tu stock</h2>
-                    <p class="text-center font-semibold text-sm text-gray-600">Registra tu stock y deja que se actualice solo con cada venta. Tus seguidores sabrán cuánto tienes en todo momento</p>
+                    <p class="text-center font-semibold text-sm text-gray-600 mt-4 leading-5">Registra tu stock y deja que se actualice solo con cada venta. Tus seguidores sabrán cuánto tienes en todo momento</p>
                 </article>
             </div>
             <div class="col-span-1">
@@ -60,7 +60,7 @@
                     </div>
                     
                     <h2 class="text-center font-bold text-lg my-0.5">Exposición personalizada</h2>
-                    <p class="text-center font-semibold text-sm text-gray-600">Tus creaciones son recomendadas especialmente a aquellos interesados en tu estilo</p>
+                    <p class="text-center font-semibold text-sm text-gray-600 mt-4 leading-5">Tus creaciones son recomendadas especialmente a aquellos interesados en tu estilo</p>
                 </article>
             </div>
             <div class="col-span-1">
@@ -72,7 +72,7 @@
                     </div>
                     
                     <h2 class="text-center font-bold text-lg mt-0.5">Obtén reporte de tus ventas</h2>
-                    <p class="text-center font-semibold text-sm text-gray-600">Lleva un registro de tus ventas, perfecto para tomar mejores decisiones y evolucionar tu proyecto</p>
+                    <p class="text-center font-semibold text-sm text-gray-600 mt-4 leading-5">Lleva un registro de tus ventas, perfecto para tomar mejores decisiones y evolucionar tu proyecto</p>
                 </article>
             </div>
             <div class="col-span-1">
@@ -84,7 +84,7 @@
                     </div>
                     
                     <h2 class="text-center font-bold text-lg mt-0.5">Crea distinto, Vende distinto</h2>
-                    <p class="text-center font-semibold text-sm text-gray-600">Crea tus códigos y promos personalizadas para que la comunidad disfrute de tus productos al máximo</p>
+                    <p class="text-center font-semibold text-sm text-gray-600 mt-4 leading-5">Crea tus códigos y promos personalizadas para que la comunidad disfrute de tus productos al máximo</p>
                 </article>
             </div>
             <div class="col-span-1">
@@ -96,7 +96,7 @@
                     </div>
                     
                     <h2 class="text-center font-bold text-lg mt-0.5">Organiza tu tiempo</h2>
-                    <p class="text-center font-semibold text-sm text-gray-600">A diferencia de las redes, pasa menos tiempo atrapado en el DM y más tiempo creando. 
+                    <p class="text-center font-semibold text-sm text-gray-600 mt-4 leading-5">A diferencia de las redes, pasa menos tiempo atrapado en el DM y más tiempo creando. 
                         Controla tu empredimiento en un solo lugar</p>
                 </article>
             </div>
@@ -111,7 +111,7 @@
                     <h1 class="xl:mx-10 font-bold text-4xl ">
                        Tu propia tienda virtual en minutos
                     </h1>
-                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg">
+                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg text-justify">
                         Tu perfil propio, tu catálogo, tu galería, tu propuesta, tus promos, tus reviews, tus favoritos, tu comunidad.
                         Esto y muchos beneficios más para que plasmes la esencia de tu proyecto como siempre quisiste.
                     </p>
@@ -133,7 +133,7 @@
                     <h1 class="xl:mx-10 font-bold text-4xl ">
                         Vende y vende, sin estar presente
                     </h1>
-                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg">
+                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg text-justify">
                         Olvídate de responder cada mensaje y compartir tus cuentas para concretar ventas.
                         Aquí, tus seguidores te compran directamente, incluso cuando estás durmiendo ;)
                     </p>
@@ -145,7 +145,7 @@
                     <h1 class="xl:mx-10 font-bold text-4xl ">
                        Tu producto no pasa desapercibido
                     </h1>
-                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg">
+                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg text-justify">
                         Tus creaciones no pasan desapercibidas gracias a que te buscan mediante categorías, filtros, nombre del producto,
                         recomendaciones y mucho más. Llega a todo tu público objetivo y expándelo
                     </p>
@@ -167,7 +167,7 @@
                     <h1 class="xl:mx-10 font-bold text-4xl ">
                        Acepta todos los medios de pago
                     </h1>
-                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg">
+                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg text-justify">
                         Cobra sin restricciones y al instante. Ya no te preocupes por coordinar cada pago con tus clientes, ahora pueden
                         usar débito y crédito de cualquier banco, protegidos por cualquier la máxima seguridad.
                     </p>
@@ -179,7 +179,7 @@
                     <h1 class="xl:mx-10 font-bold text-4xl ">
                        Ordena tus pedidos
                     </h1>
-                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg">
+                    <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg text-justify">
                         Historial a detalle de todos tus pedidos. Planifica tus envíos y actualiza su estado de manera fácil
                         y efectiva. Además, tus clientes ven sus órdenes para darles toda la confianza y tranquilidad.
                     </p>
@@ -242,7 +242,7 @@
                     <h1 class="xl:mx-10 font-bold text-4xl ">
                         ¿Suena Bien?
                     </h1>
-                    <p class="py-7 xl:mx-10 font-semibold text-xl">
+                    <p class="py-7 xl:mx-10 font-semibold text-xl text-justify">
                         Miles de compradores no pueden esperar a ver qué tiene que tienen emprededores
                         creativos como tú!
                     </p>
