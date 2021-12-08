@@ -7,7 +7,7 @@
                         Abre tu tienda en línea y potencia tu empredimiento
                     </h1>
                     <p class="py-7 xl:mx-10 font-semibold text-xl text-justify">
-                        Súmate a la nueva comunidad de emprededores con productos autenticos y originales
+                        Súmate a la nueva comunidad de emprededores con productos auténticos y originales
                     </p>
                     <div class="my-3 flex justify-center md:justify-start items-center">
                         <a class="px-4 py-2 xl:mx-10 bg-red-400 rounded text-lg font-bold text-white hover:text-black" href="{{route('enrolled')}}">Únete</a>
@@ -71,7 +71,7 @@
                         </div>
                     </div>
                     
-                    <h2 class="text-center font-bold text-lg mt-0.5">Obtén reporte de tus ventas</h2>
+                    <h2 class="text-center font-bold text-lg mt-0.5">Obtén reportes de tus ventas</h2>
                     <p class="text-center font-semibold text-sm text-gray-600 mt-4 leading-5">Lleva un registro de tus ventas, perfecto para tomar mejores decisiones y evolucionar tu proyecto</p>
                 </article>
             </div>
@@ -83,7 +83,7 @@
                         </div>
                     </div>
                     
-                    <h2 class="text-center font-bold text-lg mt-0.5">Crea distinto, Vende distinto</h2>
+                    <h2 class="text-center font-bold text-lg mt-0.5">Crea distinto, vende distinto</h2>
                     <p class="text-center font-semibold text-sm text-gray-600 mt-4 leading-5">Crea tus códigos y promos personalizadas para que la comunidad disfrute de tus productos al máximo</p>
                 </article>
             </div>
@@ -169,7 +169,7 @@
                     </h1>
                     <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg text-justify">
                         Cobra sin restricciones y al instante. Ya no te preocupes por coordinar cada pago con tus clientes, ahora pueden
-                        usar débito y crédito de cualquier banco, protegidos por cualquier la máxima seguridad.
+                        usar débito y crédito de cualquier banco, protegidos por la máxima seguridad.
                     </p>
                 </div>
             </div>
@@ -240,7 +240,7 @@
             <div class="col-span-1 ">
                 <div class="mx-5 pt-3 lg:pt-16">
                     <h1 class="xl:mx-10 font-bold text-4xl ">
-                        ¿Suena Bien?
+                        ¿Te gustaría probarlo?
                     </h1>
                     <p class="py-7 xl:mx-10 font-semibold text-xl text-justify">
                         Miles de compradores no pueden esperar a ver qué tiene que tienen emprededores

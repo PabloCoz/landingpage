@@ -3,7 +3,7 @@
         <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 my-16">
             <h1 class="text-red-400 text-5xl font-extrabold text-center">¿Te interesa la idea?</h1>
             <p class="text-gray-500 mx-5 font-bold text-2xl my-7">
-                Te inivitamos a ser de los primeros en formar parte de este marketplace exclusivo para la
+                Te invitamos a ser de los primeros en formar parte de este marketplace exclusivo para la
                 emprendedores, déjanos tu info para contactarte :)
             </p>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
