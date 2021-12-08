@@ -36,7 +36,7 @@
                     </div>
                     
                     <h2 class="text-center font-bold text-lg">Recibe comentarios y calificación de tu producto</h2>
-                    <p class="text-center text-sm text-gray-600 mt-4 leading-5">Decubre las experiencias que tus seguidores tienen con tus creaciones y aprende qué es lo que más les gusta</p>
+                    <p class="text-center text-sm text-gray-600 mt-4 leading-5">Descubre las experiencias que tus seguidores tienen con tus creaciones y aprende qué es lo que más les gusta</p>
                 </article>
             </div>
             <div class="col-span-1">
@@ -135,7 +135,7 @@
                     </h1>
                     <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg text-justify">
                         Olvídate de responder cada mensaje y compartir tus cuentas para concretar ventas.
-                        Aquí, tus seguidores te compran directamente, incluso cuando estás durmiendo ;)
+                        Aquí, tus seguidores te compran directamente, incluso cuando estás durmiendo. ;)
                     </p>
                 </div>
             </div>
@@ -147,7 +147,7 @@
                     </h1>
                     <p class="py-7 xl:mx-10 text-sm md:text-base lg:text-lg text-justify">
                         Tus creaciones no pasan desapercibidas gracias a que te buscan mediante categorías, filtros, nombre del producto,
-                        recomendaciones y mucho más. Llega a todo tu público objetivo y expándelo
+                        recomendaciones y mucho más. Llega a todo tu público objetivo y expándelo.
                     </p>
                 </div>
             </div>

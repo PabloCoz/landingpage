@@ -5,7 +5,7 @@
                 <li class="links"><a href="{{route('home')}}" class="font-bold text-lg my-3 px-2.5 py-2">Inicio</a></li>
                 <li class="links"><a href="#herramientas" class="font-bold text-lg my-3 px-2.5 py-2">Herramientas</a></li>
                 <li class="links"><a href="#beneficios" class="font-bold text-lg my-3 px-2.5 py-2">Beneficios</a></li>
-                <li class="links"><a href="#ventas" class="font-bold text-lg my-3 px-2.5 py-2">¿Que puedo vender?</a></li>
+                <li class="links"><a href="#ventas" class="font-bold text-lg my-3 px-2.5 py-2">¿Qué puedo vender?</a></li>
                 <li class="links"><a href="#unete" class="font-bold text-lg my-3 px-2.5 py-2">Únete</a></li>
                 <a href="{{route('login')}}" class="text-sm underline text-gray-500 my-3 ml-8 px-2.5 py-3">Iniciar Sesion</a>
                 </ul>
