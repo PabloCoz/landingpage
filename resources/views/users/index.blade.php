@@ -6,7 +6,7 @@
                 Te invitamos a ser de los primeros en formar parte de este marketplace exclusivo para la
                 emprendedores, déjanos tu info para contactarte :)
             </p>
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div class="col-span-1">
                     <form action="{{route('inscription')}}" method="POST">
                         @csrf
@@ -41,8 +41,8 @@
                 </div>
 
                 <div class="hidden lg:flex">
-                    <figure class=" ml-14">
-                        <img  class="h-3/4 w-full rounded" src="{{secure_asset("img/Registro/Comunidad.jpg")}}" alt="">
+                    <figure class="mt-12">
+                        <img class="h-3/5 w-full rounded" src="{{asset("img/Registro/Comunidad.jpg")}}" alt="">
                     </figure>
                 </div>
             </div>
