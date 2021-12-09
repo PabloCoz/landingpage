@@ -103,7 +103,7 @@
         </div>
     </section>
 
-    <section id="beneficios" class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 my-24">|
+    <section id="beneficios" class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 my-24">
         <h1 class="text-center text-4xl font-bold my-20">Beneficios</h1>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-6">
             <div class="col-span-1">
