@@ -159,7 +159,7 @@
 
             <div class="col-span-1 order-6 md:order-5">
                 <figure>
-                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (13).png')}}" alt="" srcset="">
+                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/Acepta.png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-5 md:order-6">
@@ -253,7 +253,7 @@
             </div>
             <div class="">
                 <figure>
-                    <img class="-my-8 h-1/3 w-full object-cover" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (8).png')}}" alt="">
+                    <img class="-my-8 h-1/3 w-full object-cover" src="{{secure_asset('vector/Ecommerce/PNG/Te gustaría.png')}}" alt="">
                 </figure>
             </div>
         </div>
