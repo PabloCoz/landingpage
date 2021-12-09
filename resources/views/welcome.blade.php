@@ -119,13 +119,13 @@
             </div>
             <div class="col-span-1">
                 <figure>
-                    <img class="h-96 w-full" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (15).png')}}" alt="" srcset="">
+                    <img class="h-96 w-full object-cover" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (15).png')}}" alt="" srcset="">
                 </figure>
             </div>
 
             <div class="col-span-1 order-2 md:order-1">
                 <figure>
-                    <img class="h-96 w-full lg:mx-20" src="{{secure_asset('vector/Ecommerce/PNG/DOG 1.png')}}" alt="" srcset="">
+                    <img class="h-96 w-full object-cover lg:mx-20" src="{{secure_asset('vector/Ecommerce/PNG/DOG 1.png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-1 md:order-2">
@@ -153,13 +153,13 @@
             </div>
             <div class="col-span-1 order-4">
                 <figure>
-                    <img class="h-96 w-full" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (3).png')}}" alt="" srcset="">
+                    <img class="h-96 w-full object-cover" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (3).png')}}" alt="" srcset="">
                 </figure>
             </div>
 
             <div class="col-span-1 order-6 md:order-5">
                 <figure>
-                    <img class="h-96 w-full mx-28 lg:mx-44" src="{{secure_asset('vector/Ecommerce/PNG/Acepta.png')}}" alt="" srcset="">
+                    <img class="h-96 w-full object-cover mx-28 lg:mx-44" src="{{secure_asset('vector/Ecommerce/PNG/Acepta.png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-5 md:order-6">
@@ -187,7 +187,7 @@
             </div>
             <div class="col-span-1 order-8">
                 <figure>
-                    <img class="h-96 w-full" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (20).png')}}" alt="" srcset="">
+                    <img class="h-96 w-full object-cover" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (20).png')}}" alt="" srcset="">
                 </figure>
             </div>
         </div>
