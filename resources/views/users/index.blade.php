@@ -42,7 +42,7 @@
 
                 <div class="hidden lg:flex">
                     <figure class="mt-12">
-                        <img class="h-3/5 w-full rounded" src="{{asset("img/Registro/Comunidad.jpg")}}" alt="">
+                        <img class="h-3/5 w-full rounded" src="{{secure_asset("img/Registro/Comunidad.jpg")}}" alt="">
                     </figure>
                 </div>
             </div>
