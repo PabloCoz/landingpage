@@ -159,7 +159,7 @@
 
             <div class="col-span-1 order-6 md:order-5">
                 <figure>
-                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/Acepta.png')}}" alt="" srcset="">
+                    <img class="h-96 mx-28 lg:mx-44" src="{{secure_asset('vector/Ecommerce/PNG/Acepta.png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-5 md:order-6">
