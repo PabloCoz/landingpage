@@ -103,7 +103,7 @@
         </div>
     </section>
 
-    <section id="beneficios" class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 my-24">
+    <section id="beneficios" class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 my-24">|
         <h1 class="text-center text-4xl font-bold my-20">Beneficios</h1>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-6">
             <div class="col-span-1">
@@ -119,13 +119,13 @@
             </div>
             <div class="col-span-1">
                 <figure>
-                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (15).png')}}" alt="" srcset="">
+                    <img class="h-96" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (15).png')}}" alt="" srcset="">
                 </figure>
             </div>
 
             <div class="col-span-1 order-2 md:order-1">
                 <figure>
-                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DOG 1.png')}}" alt="" srcset="">
+                    <img class="h-96 lg:mx-20" src="{{secure_asset('vector/Ecommerce/PNG/DOG 1.png')}}" alt="" srcset="">
                 </figure>
             </div>
             <div class="col-span-1 order-1 md:order-2">
@@ -153,7 +153,7 @@
             </div>
             <div class="col-span-1 order-4">
                 <figure>
-                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (3).png')}}" alt="" srcset="">
+                    <img class="h-96" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (3).png')}}" alt="" srcset="">
                 </figure>
             </div>
 
@@ -187,7 +187,7 @@
             </div>
             <div class="col-span-1 order-8">
                 <figure>
-                    <img class="h-1/2" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (20).png')}}" alt="" srcset="">
+                    <img class="h-96" src="{{secure_asset('vector/Ecommerce/PNG/DrawKit Vector Illustration Ecommerce & Online Shopping (20).png')}}" alt="" srcset="">
                 </figure>
             </div>
         </div>
