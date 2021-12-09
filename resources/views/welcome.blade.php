@@ -243,7 +243,7 @@
                         ¿Te gustaría probarlo?
                     </h1>
                     <p class="py-7 xl:mx-10 font-semibold text-xl text-justify">
-                        Miles de compradores no pueden esperar a ver qué tiene emprededores
+                        Miles de compradores no pueden esperar a ver qué tienen emprededores
                         creativos como tú!
                     </p>
                     <div class="my-3 flex justify-center md:justify-start items-center">
