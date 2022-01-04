@@ -7,7 +7,7 @@
                         Abre tu tienda en línea y potencia tu empredimiento
                     </h1>
                     <p class="py-7 xl:mx-10 font-semibold text-xl text-justify">
-                        Súmate a la nueva comunidad de emprededores con productos auténticos y originales
+                        Súmate a la nueva comunidad de emprendedores con productos auténticos y originales
                     </p>
                     <div class="my-3 flex justify-center md:justify-start items-center">
                         <a class="px-4 py-2 xl:mx-10 bg-red-400 rounded text-lg font-bold text-white hover:text-black" href="{{route('enrolled')}}">Únete</a>
