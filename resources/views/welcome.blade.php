@@ -4,7 +4,7 @@
             <div class="col-span-1 ">
                 <div class="mx-5 pt-3 lg:pt-16">
                     <h1 class="xl:mx-10 font-bold text-4xl ">
-                        Abre tu tienda en línea y potencia tu empredimiento
+                        Abre tu tienda en línea y potencia tu emprendimiento
                     </h1>
                     <p class="py-7 xl:mx-10 font-semibold text-xl text-justify">
                         Súmate a la nueva comunidad de emprendedores con productos auténticos y originales
